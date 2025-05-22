@@ -1,8 +1,8 @@
-# Frontend with Angular and daisyUI:
+# Angular and daisyUI pricing page template:
 
 ## Project setup: 
 To install all libraries in this project run: `npm install`
 To start this project run: `ng serve`
 
-## Project Walkthrough: 
-[Angular daisyUI tutorial](https://youtu.be/X5L6LSj6eKw)
+## Project Tutorial:
+This project is covered in this [this tutorial](https://youtu.be/Q-PPEaLl1zo) over on YouTube :)
